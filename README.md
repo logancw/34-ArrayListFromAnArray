@@ -1,4 +1,4 @@
-# Assignment  Goal: The lab was designed to teach you how to instantiate arrayLists and fill them with values from an Array.
+#  Assignment  Goal: The lab was designed to teach you how to instantiate arrayLists and fill them with values from an Array.
 
 Project Description:  
 - Create: a sub class that instantiate an ArrayList of Strings

@@ -1,18 +1,30 @@
-## Getting Started
+Assignment  Goal: The lab was designed to teach you how to instantiate arrayLists and fill them with values from an Array.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Project Description:  Create:
 
-## Folder Structure
+a sub class that instantiate an ArrayList of Strings
 
-The workspace contains two folders by default, where:
+a method that fills it with the Strings from an array
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+a method that prints the Array list
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+a Main class with the array for the arrayList and calling the methods in the sub
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Comment Requirements:
+Program name: (The name you gave the program)
 
-## Dependency Management
+Student name: (Your name)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Date: (The date you completed the program)
+
+Program Description:
+
+Sample Input (array values):
+
+Sam
+
+Jessica
+
+Mark
+
+Alexis

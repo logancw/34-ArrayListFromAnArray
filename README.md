@@ -6,11 +6,11 @@ Project Description:
 - a method that prints the Array list
 - a Main class with the array for the arrayList and calling the methods in the sub
 
-#Comment Requirements:
-#Program name: (The name you gave the program)
-#Student name: (Your name)
-#Date: (The date you completed the program)
-#Program Description:
+#  Comment Requirements:
+#  Program name: (The name you gave the program)
+#  Student name: (Your name)
+#  Date: (The date you completed the program)
+#  Program Description:
 
 Sample Input (array values):
 
